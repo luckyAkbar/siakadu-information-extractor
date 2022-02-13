@@ -1,0 +1,8 @@
+.env
+error.log
+node_modules/
+build/
+student_photo/*
+!student_photo/.gitkeep
+crawling_reports/*
+!crawling_reports/.gitkeep
